@@ -1,5 +1,4 @@
-It is a calculator app in which you can input two number and get output like Addition, Subtraction, Multiplication etc.
-
+It is a calculator programme that allows you to enter two numbers and receive results such as addition, subtraction, and multiplication.
 
 
 
