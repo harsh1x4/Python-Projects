@@ -1,6 +1,7 @@
 This is a project in which you will be greeted as you input your name.
-______
-____
+_______
+_____
+___
 __
 _
 .
